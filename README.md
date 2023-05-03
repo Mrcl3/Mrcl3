@@ -4,8 +4,8 @@ I'm a  based in Darmstadt, Germany. I have a passion for control systems, AI and
 
 ### 🔭 Current Projects
 
-- [Tbc](https://github.com/Mrcl3/20_Python_projects)
-- [Tbc](link)
+- [Diving deep into Python with 20 Python projects](https://github.com/Mrcl3/20_Python_projects)
+- [EPICs based application stack for controlling setups](https://github.com/Mrcl3/Compose-your-services)
 - [Tbc](link)
 
 ### 🌱 Currently Learning
