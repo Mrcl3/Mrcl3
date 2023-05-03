@@ -27,7 +27,7 @@ I'm a  based in Darmstadt, Germany. I have a passion for control systems, AI and
 
 ### 🎵 Now Playing
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/1198039582)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1198039582&cover_image=true&theme=default&show_offline=false&background_color=7d1c1c&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 
 
