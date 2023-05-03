@@ -1,14 +1,12 @@
-Sure, here's an example of a more visually appealing profile README:
-
 ## Hello, I'm Marcel 👋
 
 I'm a  based in Darmstadt, Germany. I have a passion for control systems, AI and quantum engineering and enjoy challenges.
 
 ### 🔭 Current Projects
 
-- [Project 1](link)
-- [Project 2](link)
-- [Project 3](link)
+- [Tbc](link)
+- [Tbc](link)
+- [Tbc](link)
 
 ### 🌱 Currently Learning
 
