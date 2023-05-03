@@ -18,8 +18,8 @@ I'm a  based in Darmstadt, Germany. I have a passion for control systems, AI and
 
 ### 📫 How to Reach Me
 
-- Email: [Your Email](mbajdel@gmail.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/marcel-bajdel-917197142/)
+- Email: [mbajdel@gmail.com](mbajdel@gmail.com)
+- LinkedIn: [Marcel Bajdel](https://www.linkedin.com/in/marcel-bajdel-917197142/)
 
 ### 📊 GitHub Stats
 
@@ -29,7 +29,6 @@ I'm a  based in Darmstadt, Germany. I have a passion for control systems, AI and
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/1198039582)
 
-Feel free to use this template and customize it to your liking!
 
 
 <!---
