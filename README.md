@@ -23,7 +23,7 @@ I'm a  based in Darmstadt, Germany. I have a passion for control systems, AI and
 
 ### 📊 GitHub Stats
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mrcl3&show_icons=true&theme=radical)
 
 ### 🎵 Now Playing
 
