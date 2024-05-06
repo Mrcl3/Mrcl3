@@ -1,6 +1,6 @@
 ## Hello, I'm Marcel 👋
 
-I'm a  based in Darmstadt, Germany. I have a passion for control systems, AI and quantum engineering and enjoy challenges.
+I'm a  based in Berlin, Germany. I have a passion for control systems, AI and quantum engineering and enjoy challenges.
 
 ### 🔭 Current Projects
 
